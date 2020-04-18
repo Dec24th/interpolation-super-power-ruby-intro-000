@@ -1,4 +1,4 @@
 def display_rainbow(colors)
-  puts
+  puts 
 end
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
